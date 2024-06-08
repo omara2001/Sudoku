@@ -15,13 +15,25 @@ The program contains 4 scrips .<br />
 3️⃣ chooseLevel - simple script for the level difficulty GUI<br />
 4️⃣ GUI - the main script, the player runs this script to play the game<br />
 
-Start the game
+>Start the game
 ![start the game](https://github.com/omara2001/Sudoku/assets/66154169/d9440e27-b764-456f-9cd1-7bacbfbf2214)
-playing the game
+
+
+
+>playing the game
 ![playing the game](https://github.com/omara2001/Sudoku/assets/66154169/4a69703a-5ef9-43fe-9576-b93b50f7b6fe)
-playing the game 2
+
+
+
+>playing the game 2
 <img width="257" alt="playing the game" src="https://github.com/omara2001/Sudoku/assets/66154169/e3cbfd27-ddab-4f0c-9ba2-ef47960c2761">
-Choosing difficulty level
+
+
+
+>Choosing difficulty level
 <img width="232" alt="choosing difficulty level" src="https://github.com/omara2001/Sudoku/assets/66154169/48a64828-fced-48da-8e0a-306725be57c7">
-Gaming
+
+
+
+>Gaming
 <img width="257" alt="gaming" src="https://github.com/omara2001/Sudoku/assets/66154169/7cefd68f-201f-413a-ae29-c352e183535d">
